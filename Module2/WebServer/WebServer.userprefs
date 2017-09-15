@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{04390434-3C40-4869-A36E-F912174AF3C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Repository.cs">
+    <Files>
+      <File FileName="Controllers/PeopleController.cs" Line="16" Column="1" />
+      <File FileName="Controllers/ValuesController.cs" Line="23" Column="28" />
+      <File FileName="Models/Repository.cs" Line="1" Column="1" />
+      <File FileName="Models/Person.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/bin/Debug/netcoreapp2.0/WebServer.deps.json
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.json
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.dev.json
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/bin/Debug/netcoreapp2.0/WebServer.dll
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/bin/Debug/netcoreapp2.0/WebServer.pdb
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/obj/Debug/netcoreapp2.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfoInputs.cache
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfo.cs
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/obj/Debug/netcoreapp2.0/WebServer.dll
+/Users/esanchez/Documents/Desarrollo/dotnet/Module3/WebServer/obj/Debug/netcoreapp2.0/WebServer.pdb

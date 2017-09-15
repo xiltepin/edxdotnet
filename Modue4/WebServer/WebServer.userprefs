@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3D350A22-573C-4A51-B4D6-37F73DA1BFB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebServer.csproj">
+    <Files>
+      <File FileName="WebServer.csproj" Line="17" Column="11" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Models/Fillm.cs" Line="8" Column="6" />
+      <File FileName="Models/DataAccess.cs" Line="22" Column="53" />
+      <File FileName="Controllers/ValuesController.cs" Line="9" Column="1" />
+      <File FileName="Controllers/FilmsController.cs" Line="9" Column="25" />
+      <File FileName="bin/Debug/netcoreapp2.0/WebServer.deps.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
