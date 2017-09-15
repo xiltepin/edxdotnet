@@ -1,0 +1,4 @@
+/Users/esanchez/Documents/Desarrollo/dotnet/dbsample/WebServer/bin/Debug/netcoreapp1.0/WebServer.deps.json
+/Users/esanchez/Documents/Desarrollo/dotnet/dbsample/WebServer/bin/Debug/netcoreapp1.0/WebServer.runtimeconfig.json
+/Users/esanchez/Documents/Desarrollo/dotnet/dbsample/WebServer/bin/Debug/netcoreapp1.0/WebServer.runtimeconfig.dev.json
+/Users/esanchez/Documents/Desarrollo/dotnet/dbsample/WebServer/obj/Debug/netcoreapp1.0/WebServer.AssemblyInfo.cs
